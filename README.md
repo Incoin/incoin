@@ -10,12 +10,11 @@ What is Incoin?
 ----------------
 
 Incoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 2 minute block targets
+ - subsidy halves in 420k blocks (~2 years)
+ - ~10mn total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
+ - 100 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
